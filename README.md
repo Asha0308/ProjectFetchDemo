@@ -2,10 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Firstly u need to clone the project from github and in the local folder use the command 
+#### `git clone https://github.com/Asha0308/ProjectFetchDemo.git`
+Then either in visual studio code terminal or in git bash terminal open the project then use the below command 
 
 In the project directory, you can run:
+### `yarn install `
 
+then to start the project use the code
 ### `yarn start`
 
 Runs the app in the development mode.\
